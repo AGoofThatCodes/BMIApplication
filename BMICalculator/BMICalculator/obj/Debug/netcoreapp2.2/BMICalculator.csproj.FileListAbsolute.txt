@@ -1,0 +1,11 @@
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\bin\Debug\netcoreapp2.2\BMICalculator.deps.json
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\bin\Debug\netcoreapp2.2\BMICalculator.runtimeconfig.json
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\bin\Debug\netcoreapp2.2\BMICalculator.runtimeconfig.dev.json
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\bin\Debug\netcoreapp2.2\BMICalculator.dll
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\bin\Debug\netcoreapp2.2\BMICalculator.pdb
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.csprojAssemblyReference.cache
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.AssemblyInfo.cs
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.dll
+C:\Users\Kirsty.Selesho\Projects\BMICalculator\BMICalculator\obj\Debug\netcoreapp2.2\BMICalculator.pdb
